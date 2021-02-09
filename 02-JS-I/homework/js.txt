@@ -1,5 +1,0 @@
-Variables = las variables son como cajas que contienen cosas, en este caso van a contener datos sin importar su tipo. Pueden ser Numeros comunes que conocemos, Booleanos strings etc. 
-
-Strings= los strings son cadenas de caracteres , que quiere decir? Son cadenas de letras, son palabras! no importan la cantidad de letras que tengan.
-
-Funciones = las funciones son las que nos permiten agilizar nuestro trabajo, por ejemplo, una calculadora seria herramienta con funciones, cuales serian sus funciones? sumar , restar, multiplicar etc. Las funciones realizan un trabajo, una orden etc. Argumentos ? que son? los argumentos son los datos que les entregamos a una funcion, por ejemplo los botones que apretamos cuando queremos hacer una suma en una calculadora. Return? el 

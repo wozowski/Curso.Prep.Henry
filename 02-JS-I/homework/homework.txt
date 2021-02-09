@@ -1,0 +1,15 @@
+Variables = las variables son como cajas que contienen cosas, en este caso van a contener datos sin importar su tipo. Pueden ser Numeros comunes que conocemos, Booleanos strings etc.
+
+Strings = los strings son cadenas de caracteres , que quiere decir? Son cadenas de letras, son palabras! no importan la cantidad de letras que tengan.
+
+Funciones = las funciones son las que nos permiten agilizar nuestro trabajo, por ejemplo, una calculadora seria una herramienta con funciones, cuales serian sus funciones? sumar , restar, multiplicar etc. Las funciones realizan un trabajo, una orden etc.
+
+Argumentos = que son? los argumentos son los datos que les entregamos a una funcion, por ejemplo los botones que apretamos cuando queremos hacer una suma en una calculadora, esos numeros en la calculadora serian argumentos
+
+Return = return es los que nos entrega una funcion, siguiendo con el ejemplo de la calculadora el "return" seria el resultado que no entrega la calculadora, el "return" sera como el resultado que nos entrega una funcion
+
+if = esto es una condicional o condicion, seria como una pregunta que tiene solo 2 respuestas posibles, solo puede ser SI o NO. Ejemplo : "¿tengo clases hoy?" 
+en la programacion las preguntas serian de otra manera y para eso usamos simbolos o signos de comparacion como : < > <= >= == === != !== etc. estos nos serviran para hacer preguntas. Ejemplo : "18 > 20" esta pregunta o condicion tiene una respuesta sola "SI" si es "VERDADERA" Y "NO" si es "FALSA", en este caso es FALSA porque 18 no es mayor que 20.
+En la programacion las condiciones nos dan como respuesta un "true" si la condicion es verdadera o "false" si la condicion es falsa.
+
+Valores Booleanos = este tipo de dato tiene 2 variantes, son : "true" y "false" como anteriormente mencionamos sirven para indicar si algo es verdadero o falso.
