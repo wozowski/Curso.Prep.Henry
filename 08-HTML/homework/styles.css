@@ -1,0 +1,39 @@
+.divClass h1{
+  color: #0014ca;
+}
+
+#spanId{
+  font-size: 18px;
+  margin: 50px;
+}
+
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+  background-color: #272727; 
+  padding: 50px; 
+  border: 5px solid #838383;
+}
+
+#thirdDiv h2{
+  color: #ffffff;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  
+}
+
+#thirdDiv ul{
+  padding: 0;
+}
+
+#thirdDiv ul li{
+  list-style: none;
+}
+
+#thirdDiv img{
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+}
+
